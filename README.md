@@ -27,3 +27,6 @@ Load direct JS module (i.e index.html)
 
 Reference:
 https://requirejs.org/docs/optimization.html
+
+![image](https://user-images.githubusercontent.com/56085499/85409178-66d45980-b55d-11ea-8fb0-a0b4164e7f8c.png)
+

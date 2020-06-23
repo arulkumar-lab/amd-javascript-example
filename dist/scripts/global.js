@@ -36,7 +36,7 @@ define("module/service/api", function(){});
 /**
  * Entry js
  */
-define('module/app',['require','./addItem','./updateItem','./removeItem','./service/api','jquery'],function(require) {
+define('module/app',['require','./addItem','./updateItem','./removeItem','./service/api'],function(require) {
   /**
    * require mod
    */
@@ -45,7 +45,7 @@ define('module/app',['require','./addItem','./updateItem','./removeItem','./serv
   const updateItem = require("./updateItem");
   const removeItem = require("./removeItem");
   const api = require("./service/api");
-  const $ = require("jquery");
+  // const $ = require("jquery");
 
   // debugger;
   addItem(".addItem-button");

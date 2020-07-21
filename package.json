@@ -31,6 +31,6 @@
     "gulp-shell": "^0.8.0",
     "requirejs": "^2.3.6",
     "minimatch": "^3.0.4",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
